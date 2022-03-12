@@ -65,6 +65,6 @@ These are my notes for trimester 3 of Computer Science Principles.
 - How does someone empower themself in a digital world?
 - Someone can empower themself in a digital world by utilizing the internet to help others in need. Technology offers people never before had oppurtunities. It allows someone not only to help people across the globe, but help them without having to travel anywhere. It can be very empowering to help those in need. 
 - How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
-- 
+- An example of someone not being empowered (having to do with the digital world) is not being able to use a computer as well as other students. To resolve this issue, it would help to help them understand, and support there needs in becoming more knowledable. 
 - Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
-- .
+- Red tape blocking is defined as sets of rules and regulations that hold people back. Some barriers a Del Norte that this is an example of is the blocking of certain sites on the Del Norte website, which does not allow free roaming of the internet. An example of red tape blocking elsewhere is the lack of internet access in certain countries, which doesn't allow the students and workers the same oppurtunities as more fortunate individuals. 
