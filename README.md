@@ -4,4 +4,4 @@
 - Data Structures Project
 - https://zachye111.github.io/jekyll_page_1/
 - Create Task 
-- [link] (https://zachye111.github.io/jekyll_page_2/)
+- https://zachye111.github.io/jekyll_page_2/
