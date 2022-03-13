@@ -3,7 +3,8 @@ main_menu = [
     ["Matrix", "matrix.py"],
     ["Fibonacci", "fibonacci.py"],
     ["Health", "health.py"],
-    ["MNMS", "mnms.py"]
+    ["MNMS", "mnms.py"],
+    ["Animation", "animation.py"],
 ]
 
 # Submenu list
