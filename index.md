@@ -68,3 +68,91 @@ These are my notes for trimester 3 of Computer Science Principles.
 - An example of someone not being empowered (having to do with the digital world) is not being able to use a computer as well as other students. To resolve this issue, it would help to help them understand, and support there needs in becoming more knowledable. 
 - Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 - Red tape blocking is defined as sets of rules and regulations that hold people back. Some barriers a Del Norte that this is an example of is the blocking of certain sites on the Del Norte website, which does not allow free roaming of the internet. An example of red tape blocking elsewhere is the lack of internet access in certain countries, which doesn't allow the students and workers the same oppurtunities as more fortunate individuals. 
+
+### 5.3 Notes
+
+- Computing innovations can reflect existing human biases, because of biases written into the algorithms or biases in data used by the innovation
+- Programmers should take action to reduce bias in algorithm used for computing innovations as a way of combating existing human biases
+- Biases can be embed at all levels of software development
+- Can either be intentional or unintentional
+
+### 5.3 Actions
+
+- Watch the video... HP computers are racist
+- Come up with some thoughts on the video and be ready to discuss them as I call on you. Here are some ideas...
+- Does the owner of the computer think this was intentional?
+- 
+- If yes or no, justify you conclusion.
+- 
+- How do you think this happened?
+- 
+- Is this harmful? Was it intended to be harmful or exclude?
+- 
+- Should it be corrected?
+- 
+- What would you or should you do to produce a better outcome?
+- 
+
+### 5.4 Notes
+
+- Public Data Sets
+- Kaggle
+- Courses in visualizations, TensorFlow, AI, Machine learning, and more.
+- Competitions- cash prizes, swag, props
+- Notebooks- code, data, notes
+- Google Public Data Sets
+- Free for the 1st Terabyte
+- All-in-one package that uses BigQuery- Library and toolset that for SQL
+- Data.gov
+- US Government data
+- Agriculture, energy, water, health
+- Your Local Government
+- Keeps them accountable
+- Help find solutions and trends in your area
+- IOC-1.E.1
+- Widespread access to information and public data facilitates the identification of problems, development of solutions, and dissemination of results
+
+- Distributed Computing
+- Donate spare computing power to help calculations
+- Folding@Home - Stanford University
+- Protein Folding
+- BOINC - University of California, Berkeley
+- Variety of Projects
+- Mathematics
+- Astrophysics
+- Climate
+- Minecraft@Home
+- Etc.
+- IOC-1.E.2
+- Science has been affected by using distributed and “Citizen Science” to solve scientific problems.
+
+- IOC-1.E.3
+- Citizen science is scientific research conducted in whole or part by distributed individuals, many of whom may not be scientists, who contribute relevant data to research using their own contributing devices.
+
+- IOC-1.E.5
+- Human capabilities can be enhanced by collaboration via computing 
+
+- Innovations made possible with crowdsourcing  
+
+- Spotify
+- Collaborative playlists
+- Algorithm
+- Metadata Write-in
+- Crowdfunding
+- Kickstarter
+- IndieGoGo
+- Etc.
+- Blockchain
+- Cryptocurrency
+- Other tokens- Concert Tickets
+- IOC-1.E.4
+- Crowdsourcing is the practice of obtaining input or information from a large number of people via the internet.
+- IOC-1.E.6
+- Crowdsourcing offers new models for collaboration, such as connecting business or social causes with funding 
+
+### 5.4 Actions
+
+- CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+- 
+- What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+- 
