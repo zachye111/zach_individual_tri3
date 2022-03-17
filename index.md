@@ -81,17 +81,17 @@ These are my notes for trimester 3 of Computer Science Principles.
 - Watch the video... HP computers are racist
 - Come up with some thoughts on the video and be ready to discuss them as I call on you. Here are some ideas...
 - Does the owner of the computer think this was intentional?
-- 
+- No, I don't believe the owner thought it was intentional, as they knew it was a programming mistake. 
 - If yes or no, justify you conclusion.
-- 
+- I think that the owner doesn't think it was intentional because a big company like HP would not create a racist program. 
 - How do you think this happened?
-- 
+- I think this happened because the people who created and tested the program didn't have darker skin tones, so this created a bias towards lighter skin tones. 
 - Is this harmful? Was it intended to be harmful or exclude?
-- 
+- This can be harmful, as some people who need to use the program may no be able to. As stated before, I do not think that the program intended to be harmful. 
 - Should it be corrected?
-- 
+- Yes, the program should be corrected so everyone is able to use it. 
 - What would you or should you do to produce a better outcome?
-- 
+- To produce a better outcome, someone should utilize crowdsourcing to eliminate any bias in the program. 
 
 ### 5.4 Notes
 
@@ -153,6 +153,6 @@ These are my notes for trimester 3 of Computer Science Principles.
 ### 5.4 Actions
 
 - CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
-- 
+- Creating an app where it shows the best way to execute a specific assignment. This would use crowdsource because it can take into account the opinions of all students, so there is no bias towards the person who made it.
 - What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
-- 
+- Our final project is a AP class page. This could be made better with crowdsourcing because it can take into account the opinions of multiple students on a specific class. This would improve our project because it will elminate bias, as the person who made the page may be bias towards a class. 
