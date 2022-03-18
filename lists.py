@@ -11,12 +11,12 @@ InfoDb.append({
     "Owns_Cars": ["2015 Fusion", "2011 Ranger", "2003 Excursion", "1997 F-350", "1969 Cadillac"]
 })
 InfoDb.append({
-    "FirstName": "Chase",
-    "LastName": "Ott",
-    "DOB": "Decemeber 22",
+    "FirstName": "Zach",
+    "LastName": "Ye",
+    "DOB": "January 19",
     "Residence": "San Diego",
-    "Email": "chaseo08899@stu.powayusd.com",
-    "Owns_Cars": ["Toyota Sienna 2005",]
+    "Email": "zacharyy04338@stu.powayusd.com",
+    "Owns_Cars": ["None",]
 })
 
 
@@ -83,7 +83,7 @@ def recur_factorial(n):
 
 
 # this is test driver or code that plays when executed directly, versus import which will not run these statements
-def tester():
+def tester2():
     num = int(input("Enter a number for factorial: "))
     # check if the number is negative
     if num < 0:
@@ -112,3 +112,10 @@ def Fibonacci(n):
 
     else:
         return Fibonacci(n-1) + Fibonacci(n-2)
+
+def fibtester():
+    num = int(input("Enter a number for the Fibonacci sequence:   "))
+    if num < 0:
+        print("testy our badle")
+    else:
+        print("The Fib of", num, "is", Fibonacci(num))

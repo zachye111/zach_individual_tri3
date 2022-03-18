@@ -31,7 +31,7 @@ def animation():
 
     # loop control variables
     start = 0  # start at zero
-    distance = 75  # how many times to repeat
+    distance = 45  # how many times to repeat
     step = 2  # count by 2
 
     # loop purpose is to animate ship sailing
@@ -39,4 +39,5 @@ def animation():
         Animation_print(position)  # call to function with parameter
         time.sleep(.1)
 
-animation()
+if __name__ == "__main":
+    animation()

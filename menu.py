@@ -1,10 +1,15 @@
+from lists import tester, tester2, fibtester
+
+from animation import *
+
+
 main_menu = [
     ["Swaps", "swaps.py"],
     ["Matrix", "matrix.py"],
     ["Fibonacci", "fibonacci.py"],
     ["Health", "health.py"],
     ["MNMS", "mnms.py"],
-    ["Animation", "animation.py"],
+    ["Animation", animation],
 ]
 
 # Submenu list
@@ -15,6 +20,12 @@ sub_menu = [
 
 patterns_sub_menu = [
     ["Health", "health.py"],
+]
+
+lists_sub_menu = [
+    ["Lists", tester],
+    ["Factorial", tester2],
+    ["Fibonacci", fibtester],
 ]
 
 # Prompt for menu selection
@@ -30,6 +41,7 @@ def menu():
     menu_list = main_menu.copy()
     menu_list.append(["Swaps and Matrix", submenu])
     menu_list.append(["Create Task", patterns_submenu])
+    menu_list.append(["Lists", lists_submenu])
     buildMenu(title, menu_list)
 
 # using sub menu list above, defining sub menu
@@ -39,6 +51,9 @@ def submenu():
 def patterns_submenu():
     title = "Function Submenu" + banner
     buildMenu(title, patterns_sub_menu)
+def lists_submenu():
+    title = "Lists Submenu" + banner
+    buildMenu(title, lists_sub_menu)
 
 def buildMenu(banner, options):
     # header for menu
