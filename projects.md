@@ -1,4 +1,4 @@
-{% include navbar.html %}
+{% include navigation.html %}
 ## Data Structures Project
 
 GitHub page that documents Data Structures project, using code snippets for key learnings, and links to  GitHub for code and Replit for runtime.
