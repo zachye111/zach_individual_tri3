@@ -1,3 +1,4 @@
+{% include navbar.html %}
 # zach_individual_tri3
 - Notes and Actions
 - https://zachye111.github.io/zach_individual_tri3/
