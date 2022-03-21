@@ -117,7 +117,7 @@ def buildMenu(banner, options):
 
 A more efficient way of using functions to achieve the same results.
 
-You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/animation.py) in the animation.
+You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/menu.py) in the animation.
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/random-animation"></iframe>
 
@@ -174,7 +174,7 @@ animation()
 
 Christmas tree with * s or a pattern.
 
-You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/tree.py) in the project.
+You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/menu.py) in the project.
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/tree"></iframe>
 
@@ -195,7 +195,7 @@ print("        Here is the Tree.")
 
 InfoDB lists, InfoDB loops, and Fibonacci.
 
-You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/lists.py) in the project.
+You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/menu.py) in the project.
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/list"></iframe>
 
