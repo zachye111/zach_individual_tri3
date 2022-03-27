@@ -157,3 +157,119 @@ These are my notes for trimester 3 of Computer Science Principles.
 - Creating an app where it shows the best way to execute a specific assignment. This would use crowdsource because it can take into account the opinions of all students, so there is no bias towards the person who made it.
 - What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 - Our final project is a AP class page. This could be made better with crowdsourcing because it can take into account the opinions of multiple students on a specific class. This would improve our project because it will elminate bias, as the person who made the page may be bias towards a class. 
+
+### 5.5 Notes 
+
+- Intellectual Property
+- Intellectual property (IP): a work or invention that is the result of creativity to which one has rights
+- Easy to access
+- Copyright
+- Copyright protects your IP and keeps anyone from using it, unless you give them your permission
+- Plagiarism: Presenting material as your own
+- Legal ways to use materials created by someone else:
+- Creative commons
+- Open source
+- Open access
+- Creative Commons
+- Creative commons provides free licenses that you can use to tell others hope you want them to use your creations.
+- It clearly tells others what they can and can not do with your IP
+- Open Source and Open Access
+- Open source: programs made freely available for anyone to use and may b e redistributed and modified
+- Open Access: Online research output free of any and all restrictions on access and free of many restrictions on use, such as copyright or license restrictions
+- Always give credit
+
+- Legal and Ethical Concerns
+- Digital Didie: Unequal distribution of access to technology
+
+### 5.5 Actions
+- When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+- Creative Commons Zero v1.0 Universal
+- The Creative Commons CC0 Public Domain Dedication waives copyright interest in a work you've created and dedicates it to the world-wide public domain.
+- Open Source MIT License
+- This license in friendly to someone like Qualcomm! This allows using code freely and making and distributing closed source versions.
+- Open Source GPL License
+- The GNU GPLv3 also lets people do almost anything they want with your project, except distributing closed source versions.
+- Make a license for your personal and Team project. Document license you picked and why.
+- I chose a GPL-3.0 liscense, which is a public liscense. I chose this so it can be viewed and used by the general public, and it is easy and understandable. I can potentially gain revenue using this liscense as well. 
+
+### 5.6 Notes
+- Personally Identifiable Information
+- Personally Identifiable Information (PII): Information specific to an individual 
+- SSN
+- Age
+- Race
+- Phone number
+- Date of birth
+- Email address
+- Mailing address
+- Medical information
+- Credit card information
+- Can be used to steal someone else's information
+- Search engines maintain a history of what you search
+- Search history is used to suggest other websites you may like or for targeted marketing
+- Location can be collected
+- Can enhance a user’s online experience
+- Can exploit privacy and other protections ignored
+- Information placed online can be used in ways that were not intended and that may have a harmful impact
+- Authentication
+- Authentication measure protect devices and information from unauthorized access
+- Authentication measures:
+- Strong password
+- Multi-factor authentication
+- Strong Password
+- Creating strong passwords
+- 10 or more characters
+- Contains a symbol
+- Contains a number
+- Contains a lowercase and uppercase letter
+- Virus and Malware
+- Virus: copy themselves and gain access to systems that they are not supposed to be allowed in
+- Malware: intended to damage a computer system or take particle control over its operation
+- Can infiltrate a system by posing as legitimate programs or by attaching itself to legitimate programs, like an email attachment
+- Virus scans can help to prevent malicious code from getting into and affecting your system
+- Encryption and Decryption
+- Once legitimate access to a system is gained, it is important to ensure data sent to and from the system remains uncompromised
+- Encryption: the process of encoding data to prevent unauthorized access 
+- Symmetric encryption
+- One key is used to both encrypt and decrypt data
+- Ex: Caesar Cipher
+- Asymmetric encryption
+- Public key encryption: uses two keys 
+- A public key for encrypting
+- A private key for decrypting
+- Sender does not need the receiver’s private key to encrypt a message
+- Receiver’s private key IS required to decrypt the message
+- Description: the process of decoding data
+- Digital Certificates
+- Certificate authorities issue digit certificates that validate the ownership of encryption keys used in secure communications and are based on a trust model
+- Importance of the internet
+- The internet is an integral part of our lives
+- Risk to Personal Safety
+- Phishing: an attempt to trick a user into providing personal information, like your usernames and passwords, account numbers, or social security numbers
+- Often look like they're from a company you know and trust:
+- Your bank
+- Credit Card company
+- Social networking site
+- Video streaming service
+- Online Store
+- They trick you into clicking a link or opening an attachment
+- Clicking a link or opening an attachment in a phishing email will cause unexpected harm:
+- Virus installed on your computer
+- Spoofed baking website
+- Keylogger installed	
+- Records every keystroke made by a user in order to gain fraudulent access to passwords or other confidential information	
+- Rogue access point: a wireless network that can give unauthorized access to secure networks
+
+### 5.6 Actions
+- Describe PII you have seen on project in CompSci Principles.
+- Examples of PII that I have seen in CSP are things like full names and email adresses. 
+- What are your feelings about PII and your exposure?
+- In my opinion, PII can be a very dangerous thing. In the digital age, the exposure of PII can lead to many unsafe things.
+- Describe good and bad passwords? What is another step that is used to assist in authentication.
+- Good passwords are random, and cannot be guessed. Bad passwords are things like birthdays or names, these things can be guessed easily. Something that can be used to assist authentication is 2-step.
+- Try to describe Symmetric and Asymmetric encryption.
+- Symmetric encryption is when something is shared amongst a group of people who need to verify. Asymmetric encryption is when a pair of private and public keys are used. 
+- Provide and example of encryption we used in deployment.
+- In deployment, the code used that is pushed from are accounts are behind password and email encryption. 
+- Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+- A phishing scheme that I have learned about the hard way is email phisihing. Another pishing scheme is text phishing. 
