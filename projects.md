@@ -338,3 +338,19 @@ def fibtester():
 - then it will return 0
 - Check if n is 1,2
 - it will return 1
+
+### Factorial 
+
+Write Factorial function using classes, providing implementation of call.
+
+You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/factorial.py) in the project.
+
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/list"></iframe>
+
+### Fibonacci
+
+Write Factorial function using classes, providing implementation of call.
+
+You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/fibonacci.py) in the project.
+
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/list"></iframe>
