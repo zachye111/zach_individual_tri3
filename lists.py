@@ -94,28 +94,31 @@ def tester2():
 # Hack 3: Fibonacci.  Write a recursive program to create a fibonacci sequence including error handling for invalid input
 # Function for nth Fibonacci number
 def Fibonacci(n):
-
-    # Check if input is 0 then it will
-    # print incorrect input
-    if n < 0:
-        print("Incorrect input")
-
-    # Check if n is 0
-    # then it will return 0
-    elif n == 0:
-        return 0
-
-    # Check if n is 1,2
-    # it will return 1
-    elif n == 1 or n == 2:
-        return 1
-
+    nterms = int(input("Enter a number for Fib: ")) + 1
+    # first two terms
+    n1, n2 = 0, 1
+    count = 0
+    # check if the number of terms is valid
+    if nterms <= 0:
+        print("Please enter a positive integer")
+    # if there is only one term, return n1
+    elif nterms == 1:
+        print("Fibonacci sequence upto",nterms,":")
+        print(n1)
+    # generate fibonacci sequence
     else:
-        return Fibonacci(n-1) + Fibonacci(n-2)
-
+        print("Fibonacci sequence:")
+        while count < nterms:
+            print(n1)
+            nth = n1 + n2
+            # update values
+            n1 = n2
+            n2 = nth
+            count += 1
 def fibtester():
-    num = int(input("Enter a number for the Fibonacci sequence:   "))
-    if num < 0:
-        print("testy our badle")
+    Test = 1
+    # check if the number is negative
+    if Test < 0:
+        print("Sorry, Fib does not exist for negative numbers")
     else:
-        print("The Fib of", num, "is", Fibonacci(num))
+        print( Fibonacci(Test))
