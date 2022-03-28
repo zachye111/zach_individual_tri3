@@ -347,6 +347,25 @@ You can see the [code used](https://github.com/zachye111/zach_individual_tri3/bl
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/list"></iframe>
 
+```
+class Factor:
+
+    def fact(self, n):
+        f = 1
+        for i in range(1, n + 1):
+            f = f * i
+        return f
+
+
+n = int(input("Enter a number: "))
+while n >= 1:
+    obj = Factor()
+    f = obj.fact(n)
+    print("Factorial is of", n, "is", f)
+    n -= 1
+ ```
+    
+
 ### Fibonacci
 
 Write Factorial function using classes, providing implementation of call.
@@ -354,3 +373,25 @@ Write Factorial function using classes, providing implementation of call.
 You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/fibonacci.py) in the project.
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/list"></iframe>
+
+```
+class Fib:
+    def fact(self, n):
+        if n<= 0:
+            return "Incorrect Output"
+        data = [0, 1]
+        if n > 2:
+            for i in range (2, n):
+                data.append(data[i-1] + data[i-2])
+        return data[n-1]
+
+
+n = int(input("Enter a number: ")) + 1
+while n >= 1:
+    obj = Fib()
+    f = obj.fact(n)
+    print("Fib of", n - 1, "is", f)
+    n -= 1
+    ```
+    
+    
