@@ -9,7 +9,7 @@ You can see the [code used](https://github.com/zachye111/zach_individual_tri3/bl
 
 Creating a Python menu with data structures and try/except statements - the lazy programmer way.
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/menu"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/menu#main.py"></iframe>
 
 ```
 main_menu = [
