@@ -1,7 +1,4 @@
+{% include navbar.html %}
 # zach_individual_tri3
-- Notes and Actions
+- Github pages
 - https://zachye111.github.io/zach_individual_tri3/
-- Data Structures Project
-- https://zachye111.github.io/jekyll_page_1/
-- Create Task 
-- https://zachye111.github.io/jekyll_page_2/
