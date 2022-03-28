@@ -11,6 +11,8 @@ main_menu = [
     ["MNMS", "mnms.py"],
     ["Animation", animation],
     ["Tree", "tree.py"],
+    ["Factorial", "factorial.py"],
+    ["Fibonacci", "fibonacci.py"],
 ]
 
 # Submenu list
