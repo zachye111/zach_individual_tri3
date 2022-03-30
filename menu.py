@@ -14,8 +14,8 @@ main_menu = [
 
 # Submenu list
 sub_menu = [
-    ["Swaps", "swaps.py"],
-    ["Matrix", "matrix.py"],
+    ["Swaps", "Week_0/swaps.py"],
+    ["Matrix", matrix.driver],
 ]
 
 patterns_sub_menu = [
