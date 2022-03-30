@@ -1,13 +1,12 @@
-from lists import tester, tester2, fibtester
-
-from animation import *
+from Week_1 import lists
+from Week_0 import animation
 
 main_menu = [
-    ["Swaps", "swaps.py"],
+    ["Swaps", "Week_0/swaps.py"],
     ["Matrix", "matrix.py"],
-    ["Fibonacci", "fibonacci.py"],
+    ["Fibonacci", "Week_1/fibonacci.py"],
     ["MNMS", "mnms.py"],
-    ["Animation", animation],
+    ["Animation", animation.animation],
     ["Tree", "tree.py"],
     ["Factorial", "factorial.py"],
     ["Fibonacci", "fibonacci.py"],
@@ -24,9 +23,9 @@ patterns_sub_menu = [
 ]
 
 lists_sub_menu = [
-    ["Lists", tester],
-    ["Factorial", tester2],
-    ["Fibonacci", fibtester],
+    ["Lists", lists.tester],
+    ["Factorial", lists.tester2],
+    ["Fibonacci", lists.fibtester],
 ]
 
 # Prompt for menu selection
