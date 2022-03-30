@@ -1,15 +1,15 @@
 from Week_1 import lists
-from Week_0 import animation
+from Week_0 import animation, matrix, mnms
 
 main_menu = [
     ["Swaps", "Week_0/swaps.py"],
-    ["Matrix", "matrix.py"],
+    ["Matrix", matrix.driver],
     ["Fibonacci", "Week_1/fibonacci.py"],
-    ["MNMS", "mnms.py"],
+    ["MNMS", mnms.myur],
     ["Animation", animation.animation],
-    ["Tree", "tree.py"],
-    ["Factorial", "factorial.py"],
-    ["Fibonacci", "fibonacci.py"],
+    ["Tree", "Week_0/tree.py"],
+    ["Factorial", "Week_2/factorial.py"],
+    ["Fibonacci", "Week_1/fibonacci.py"],
 ]
 
 # Submenu list

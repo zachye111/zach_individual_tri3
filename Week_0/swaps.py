@@ -9,5 +9,6 @@ class swap:
             ah = x
             return self, ah
 
+
     a, b = yah(21, 16)
     print(a, b)

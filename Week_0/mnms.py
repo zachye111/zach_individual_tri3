@@ -1,5 +1,6 @@
+
 class mnms:
-    def ur(small, big, goal):
+    def ur(self, small, big, goal):
         if goal >= 5 * big:
             remainder = goal - 5 * big
         else:
@@ -10,6 +11,11 @@ class mnms:
         else:
             print(remainder)
 
-    ur(2, 3, 17)
-    ur(9, 1, 14)
 
+def myur():
+    myurobj = mnms()
+    myurobj.ur(2, 3, 17)
+    myurobj.ur(9, 1, 14)
+
+if __name__ == "__main":
+    myur()
