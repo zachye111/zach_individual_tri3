@@ -1,5 +1,5 @@
 {% include navigation.html %}
-## Zachary Ye Individual Notes and Actions (Test Prep Study)
+## Zachary Ye Individual Notes (Test Prep Study)
 
 These are my notes for trimester 3 of Computer Science Principles.
 
