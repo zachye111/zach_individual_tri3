@@ -2,20 +2,20 @@ from Week_1 import lists
 from Week_0 import animation, matrix, mnms
 
 main_menu = [
-    ["Swaps", "Week_0/swaps.py"],
-    ["Matrix", matrix.driver],
-    ["Fibonacci", "Week_1/fibonacci.py"],
-    ["MNMS", mnms.myur],
     ["Animation", animation.animation],
     ["Tree", "Week_0/tree.py"],
-    ["Factorial", "Week_2/factorial.py"],
-    ["Fibonacci", "Week_1/fibonacci.py"],
 ]
 
 # Submenu list
 sub_menu = [
     ["Swaps", "Week_0/swaps.py"],
     ["Matrix", matrix.driver],
+]
+
+sub_menu_math = [
+    ["Factorial", "Week_2/factorial.py"],
+    ["Fibonacci", "Week_1/fibonacci.py"],
+    ["MNMS", mnms.myur],
 ]
 
 patterns_sub_menu = [
@@ -42,6 +42,7 @@ def menu():
     menu_list.append(["Swaps and Matrix", submenu])
     menu_list.append(["Create Task", patterns_submenu])
     menu_list.append(["Lists", lists_submenu])
+    menu_list.append(["Math", submenu_math])
     buildMenu(title, menu_list)
 
 # using sub menu list above, defining sub menu
@@ -54,6 +55,9 @@ def patterns_submenu():
 def lists_submenu():
     title = "Lists Submenu" + banner
     buildMenu(title, lists_sub_menu)
+def submenu_math():
+    title = "Math Submenu" + banner
+    buildMenu(title, sub_menu_math)
 
 def buildMenu(banner, options):
     # header for menu
