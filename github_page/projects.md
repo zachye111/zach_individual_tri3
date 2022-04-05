@@ -9,7 +9,7 @@ You can see the [code used](https://github.com/zachye111/zach_individual_tri3/bl
 
 Creating a Python menu with data structures and try/except statements - the lazy programmer way.
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/menu?lite=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/final?lite=true"></iframe>
 
 ```
 main_menu = [
@@ -119,7 +119,7 @@ A more efficient way of using functions to achieve the same results.
 
 You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/menu.py) in the animation.
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/menu?lite=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/final?lite=true"></iframe>
 
 ```
 ANSI_CLEAR_SCREEN =  lambda: print('\n' * 150)
@@ -176,7 +176,7 @@ Christmas tree with * s or a pattern.
 
 You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/menu.py) in the project.
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/menu?lite=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/final?lite=true"></iframe>
 
 ```
 def tree(x):
@@ -197,7 +197,7 @@ InfoDB lists, InfoDB loops, and Fibonacci.
 
 You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/menu.py) in the project.
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/menu?lite=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/final?lite=true"></iframe>
 
 ```
 InfoDb = []
@@ -345,7 +345,7 @@ Write Factorial function using classes, providing implementation of call.
 
 You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/factorial.py) in the project.
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/menu?lite=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/final?lite=true"></iframe>
 
 ```
 class Factor:
@@ -372,7 +372,7 @@ Write Factorial function using classes, providing implementation of call.
 
 You can see the [code used](https://github.com/zachye111/zach_individual_tri3/blob/main/fibonacci.py) in the project.
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/menu?lite=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/final?lite=true"></iframe>
 
 
 ```
