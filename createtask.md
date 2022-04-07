@@ -5,52 +5,45 @@ GitHub page that documents intended Create Task project for College Board, snipp
 
 ### Intended Create Task Project
 
-My intended create task project is a memorization game, where a sequnece of colors is shown and the user must copy the same sequence. 
+My intended create task project is a health reporter, where you input different statistics about yourself and it reccomends amounts of sleep. 
 
 It can be seen [here] (https://replit.com/join/tfgugruuyu-zachye111)
 
 ### Snippets
 
-```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-- this satisfies the college board requirements because
+Instructions for input:
 
 ```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+sleep = input('enter your hours of sleep: ')
+exercise = input('enter your minutes of exercise: ')
+calories = input('enter your amount of calories: ')
+screentime = input('enter your hours of screentime: ')
 ```
 
-- this satisfies the college board requirements because
+Use a list:
 
-### Links to Runtime
+```
+def healthy(list):
+    list[sleep, exercise, calories, screentime]
+```
 
-You can access my Create Task page for college board here: [link](https://github.com/zachye111/zach_individual_tri3).
+Procedure/An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure/Calls to your student-developed procedure/Instructions for output (tactile, audible, visual, or textual) based on input and program functionality:
+
+```
+if int(sleep) < 8:
+        print("get some more sleep!")
+    else:
+        print("you are getting enough sleep :)")
+    if int(exercise) < 30:
+        print("stand up and go for a walk!")
+    else:
+        print("you are very active :)")
+    if int(calories) < 2000:
+        print("consume some more fats, carbs, protein!")
+    else:
+        print("you have good eating habits :)")
+    if int(screentime) > 12:
+        print("rest your eyes!")
+    else:
+        print("you are keeping your eyes healthy :)")
+```
