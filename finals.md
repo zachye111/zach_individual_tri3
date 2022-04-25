@@ -1,3 +1,4 @@
+{% include navigation.html %}
 ### Test 1
 
 Score: 43/50
