@@ -10,4 +10,6 @@ Github pages
 - [Week 3 Review Ticket](https://github.com/zachye111/zach_individual_tri3/issues/4)
 - [AP Exam Study](https://github.com/zachye111/zach_individual_tri3/issues/5)
 - [Week 4 Review Ticket](https://github.com/zachye111/zach_individual_tri3/issues/6)
+- [Week 5 Review Ticket](https://github.com/zachye111/zach_individual_tri3/issues/7)
+
 
