@@ -5,9 +5,9 @@ GitHub page that documents intended Create Task project for College Board, snipp
 
 ### Intended Create Task Project
 
-My intended create task project is a health reporter, where you input different statistics about yourself and it reccomends amounts of sleep. 
+My intended create task project is a memory game, where you have to copy the computers randomly generated sequence.  
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@zachye111/createtaskhealth?lite=true"></iframe>
+[Here is a link to the video](https://drive.google.com/file/d/1u65AfSh-Gb_r3Nikpgz4iJ0cdh_3WcMg/view?usp=sharing)
 
 ### Snippets
 
