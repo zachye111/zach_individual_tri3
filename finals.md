@@ -74,3 +74,70 @@ becomes available.
 Question 49
 - Answer C
 - The transformation is lossless because an encoded string can be restored to its original version. For example, Open quotation, percent, hash, underscore, hash, underscore, percent E, underscore, BEST, underscore, W, hash, H, close quotation can be restored to Open quotation, THIS, underscore, IS, underscore, THE, underscore, BEST, underscore, WISH, close quotation by replacing all instances of Open quotation, percent, close quotationwith Open quotation, T H, close quotation and by replacing all instances of Open quotation, hash, close quotation with Open quotation, I S, close quotation.
+
+### Test 3
+
+Score: 36/50
+
+### Corrections
+
+Question 1
+- Answer B
+- If the connections between U and V and between U and P were removed, then computer T and computer U can no longer communicate.
+
+Question 2
+- Answer B
+- If the connections between U and V and between U and P were removed, then computer T and computer U can no longer communicate.
+
+Question 6
+- Answer D
+- This algorithm displays the numbers 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, and 20. After 20 is displayed, x is incremented to 21. The value 21 is not displayed since it is a multiple of 3 and the algorithm terminates.
+- Answer A
+- This algorithm displays the numbers 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, and 20. After 20 is displayed, the algorithm terminates.
+
+Question 7
+- Answer D
+- The procedure initially sets result to 1 and j to 2. In the REPEAT UNTIL loop, result is first assigned the sum of result and j, or 1 + 2. The value of j is then increased to 3. In each subsequent iteration of the loop, result is increased by each successive value of j (3, 4, 5, etc.) until j exceeds n. Therefore, the procedure returns the sum of the integers from 1 to n.
+
+Question 13
+- Answer C
+- If the number of units of electricity used is 25 or less, the cost is 5 times the number of units. Otherwise, the cost is 5 times the first 25 units plus 7 times the number of units above 25. For examples, if a customer used 32 units of electricity, they should be charged $5 for the first 25 and $7 for the additional 7 units (32 – 25 = 7 units), for a total charge of $174. 
+
+Question 19
+- Answer A
+- Without knowing the individual assignment scores, the administrator is unable to determine any of the student’s individual scores other than the lowest score.
+
+Question 27
+- Answer B
+- For a show to be counted, the value of genre must be "talk" and the value of day must be "Saturday" or "Sunday".
+
+Question 33
+- Answer A
+- Basing the recommendation algorithm on data from a random sample of users will help ensure that the data gathered are more representative of all users of the application. Gathering data from a representative sample can help the developers avoid bias.
+
+Question 39
+- Answer B
+- The total number of registered users appears to be increasing by about 0.5 million each year, so in year 12, the number of users can be approximated at 31.2 million (30.2 + 0.5 + 0.5).
+
+Question 43
+- Answer C
+- Users with a premium account do not receive advertisements.
+
+Question 44
+- Answer D
+- The procedures square and cube are each used to determine a power of n. A generalization of this procedure
+is Power, open parenthesis, n comma m, close parenthesis, which calculates n raised to the mpower.
+
+Question 47
+- Answer D
+- This code segment sets bonus to 0 when score < 50, sets bonus to score * 10 when score > 100, and sets bonus to score when 100 ≥ score ≥ 50.
+- Answer A
+- This code segment sets bonus to score * 10 when score > 100, sets bonus to score when 100 ≥ score ≥ 50, and sets bonus to 0 when score < 50.
+
+Question 49
+- Answer B
+- A user can see a map of other people in the area who may not be on the user’s contact list.
+
+Question 50
+- Answer A
+- The variable first is initially assigned the value 100 and the variable second is initially assigned the value 200. Next, temp is assigned the value of first, which is 100. Next, second is assigned the value of temp, which is 100. Last, first is assigned the value of second, which is 100. After execution, both first and second have the value 100.
