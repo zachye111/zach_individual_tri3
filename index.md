@@ -8,3 +8,4 @@
 - [Week 4 Review Ticket](https://github.com/zachye111/zach_individual_tri3/issues/6)
 - [Week 5 Review Ticket](https://github.com/zachye111/zach_individual_tri3/issues/7)
 - [Week 6 Review Ticket](https://github.com/zachye111/zach_individual_tri3/issues/8)
+- [Week 6 Review Ticket](https://github.com/zachye111/zach_individual_tri3/issues/9)
