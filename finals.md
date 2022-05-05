@@ -141,3 +141,56 @@ Question 49
 Question 50
 - Answer A
 - The variable first is initially assigned the value 100 and the variable second is initially assigned the value 200. Next, temp is assigned the value of first, which is 100. Next, second is assigned the value of temp, which is 100. Last, first is assigned the value of second, which is 100. After execution, both first and second have the value 100.
+
+### Test 4
+
+Score: 39/50
+
+### Corrections
+
+Question 2
+- Answer B
+- An incorrect trial count occurs because there are two calls to RANDOM for each iteration of the loop instead of one. By replacing line 9 with an ELSE statement, the code segment will increment xCount approximately 25% of the time and will increment yCount otherwise.
+
+Question 3
+- Answer B
+- Since y is initially negative, the loop condition count ≥ y is initially true, so the body of the loop is never executed and 0 is returned.
+- Answer D
+- Since y is initially negative, the loop condition count ≥ y is initially true, so the body of the loop is never executed and 0 is returned.
+
+Question 6
+- Answer C
+- The information to be displayed comes from both databases. The animal name can be used search the first database to find the classification, skin type, and thermoregulation information. The animal name can be used search the second database to find the lifestyle, average life span, and top speed information.
+
+Question 10
+- Answer C
+- The loop should iterate once for each multiple of 5 from start to end. The number of multiples of 5 from start to end is given by Open parenthesis, open parenthesis, end minus start, close parenthesis, divided by 5, close parenthesis, plus 1. For the example given, Open parenthesis, open parenthesis, end minus start, close parenthesis, divided by 5, close parenthesis, plus 1evaluates to 4.
+
+Question 13
+- Answer C
+- Program I correctly moves the robot to the gray square by repeatedly moving the robot forward, rotating left, moving forward, and rotating right. Program II correctly moves the robot to the gray square by moving the robot forward to the upper-right corner of the grid, rotating left, and moving forward to the upper-left corner of the grid.
+
+Question 15
+- Answer C
+- The programs each display ten values, but each value displayed by program B is one greater than the
+corresponding value from program A. Program A displays 1 2 3 4 5 6 7 8 9 10 and program B displays  2 3 4 5 6 7 8 9 10 11.
+
+Question 19
+- Answer D
+- In this code segment, three coin flips are simulated, where one result is represented by 1 and the other result is represented by 0. The player wins when the sum of these is 0 or 3, indicating all heads or all tails.
+
+Question 35
+- Answer C
+- If devices B and F fail, then devices E, G, and H will become isolated from devices A, C, D, and I. Therefore, device A will be unable to communicate with device G.
+
+Question 38
+- Answer A
+- This code segment rotates right whenever there is an open square to the right. The robot will move forward from its initial location to the upper-left corner of the grid, then rotate right, then move forward to the upper-right corner of the grid, then rotate right, then move down two squares, then rotate right, then move forward to the gray square.
+
+Question 43
+- Answer B
+- The Internet was designed to be scalable, using open protocols to easily connect additional computing devices to the network.
+
+Question 44
+- Answer A
+- A rogue access point is a wireless access point that gives unauthorized access to secure networks. Data sent over public networks can be intercepted, analyzed, and modified. One way that this can happen is through a rogue access point.
